@@ -7,14 +7,26 @@ I'm a **22-year-old** Malaysian currently pursuing my **Bachelor of Computer Sci
 ## 💻 A Bit About My Coding Journey
 My programming adventure has taken me through several languages and frameworks. I’ve explored:
 
-- **Programming Languages**:  
-  I've "played around" with **Java, Python, JavaScript**, along with **HTML, CSS**, and databases like **SQL and NoSQL**.
-  
-- **Frameworks & Libraries**:  
-  I’ve worked with popular frameworks and platforms, such as **React, React Native, Firebase**, and **Bootstrap**, using them to build dynamic applications that aim to solve real-world problems.
-  
-- **IDEs & Tools**:  
-  My go-to coding environments include **VS Code, Visual Studio, IntelliJ, Android Studio**, and **Unity** for various projects, from mobile apps to web development and even game development!
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-005571?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Frameworks, Platforms, and Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### IDEs/Editors
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
@@ -39,7 +51,7 @@ I see myself continuing to grow as a software engineer, aiming to develop produc
 
 ---
 
-## 💡 Life Quote
+## 💡 About Me
 _"An enthusiastic computer science student eager to learn and adapt quickly to new challenges in the software engineering field."_
 
 ---
