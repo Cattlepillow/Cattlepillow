@@ -39,7 +39,7 @@ I see myself continuing to grow as a software engineer, aiming to develop produc
 
 ---
 
-## 💡 Personal Quote
+## 💡 Life Quote
 _"An enthusiastic computer science student eager to learn and adapt quickly to new challenges in the software engineering field."_
 
 ---
